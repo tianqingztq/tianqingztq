@@ -1,8 +1,13 @@
 ### Hi👋
+### I am Tianqing Zhou, 
+### QMSS 22', Columbia University
 
-I am Tianqing Zhou
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+### Technologies & Tools 	\U+1F9F0
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<R>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<BigData>-<PySpark & Scala>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 <!--
 **tianqingztq/tianqingztq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
